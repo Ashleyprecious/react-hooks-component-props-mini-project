@@ -1,8 +1,9 @@
-import logo from "../assets/logo";
+// import logo from "../assets/logo";
+import myImage from "../images/myImage.jpeg";
 
 const blogData = {
-  name: "Underreacted",
-  image: logo,
+  name: "Yelsha's Blog",
+  image: myImage,
   about: "A blog about learning React",
   posts: [
     {
